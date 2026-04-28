@@ -4,7 +4,7 @@ Welcome to the [LINK WHEN PAGE IS LIVE] Medical Image Computing Hackathon (MIC-H
 
 [Click here to see project descriptions](https://github.com/lukewtait/mic-hack-2026/issues). 
 
-**Project leaders**: To make a new project, click [Make New Project](https://github.com/lukewtait/mic-hack-2026/issues/new). Please refer to the Example Project [LINK WHEN LIVE] and Project Guidelines [LINK]. 
+**Project leaders**: To propose a project, click [Make New Project](https://github.com/lukewtait/mic-hack-2026/issues/new). Please refer to the Example Project [LINK WHEN LIVE] and Project Guidelines [LINK]. 
 
 **Participants**: Please browse the project descriptions, and indicate your preferred projects using the MS Form [LINK TO BE ADDED].
 
