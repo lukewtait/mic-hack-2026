@@ -19,12 +19,9 @@ For enquiries, please contact the organisation team, listed below.
 ***
 ### Organisation team
 
-Name | Email
----|---
-Stefano Zappala | [ZappalaS\@cardiff.ac.uk](mailto:ZappalaS\@cardiff.ac.uk)
-Paddy Slator | [SlatorP\@cardiff.ac.uk](mailto:SlatorP\@cardiff.ac.uk)
-Finnlay Gough | [GoughFS\@cardiff.ac.uk](mailto:GoughFS\@cardiff.ac.uk)
-Gerasimos Katsagannis | [KatsagannisG\@cardiff.ac.uk](mailto:KatsagannisG\@cardiff.ac.uk)
-Yueran Ma | [MaY68\@cardiff.ac.uk](mailto:MaY68\@cardiff.ac.uk)
-Harry Steed | [SteedHA\@cardiff.ac.uk](mailto:SteedHA\@cardiff.ac.uk)
+Name | Email | Name | Email
+---|---|---|---
+Stefano Zappala | [ZappalaS\@cardiff.ac.uk](mailto:ZappalaS\@cardiff.ac.uk) | Paddy Slator | [SlatorP\@cardiff.ac.uk](mailto:SlatorP\@cardiff.ac.uk)
+Finnlay Gough | [GoughFS\@cardiff.ac.uk](mailto:GoughFS\@cardiff.ac.uk) | Gerasimos Katsagannis | [KatsagannisG\@cardiff.ac.uk](mailto:KatsagannisG\@cardiff.ac.uk)
+Yueran Ma | [MaY68\@cardiff.ac.uk](mailto:MaY68\@cardiff.ac.uk) | Harry Steed | [SteedHA\@cardiff.ac.uk](mailto:SteedHA\@cardiff.ac.uk)
 Luke Tait | [TaitL2\@cardiff.ac.uk](mailto:TaitL2\@cardiff.ac.uk)
