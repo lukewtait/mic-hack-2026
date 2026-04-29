@@ -4,9 +4,11 @@ Welcome to the [LINK WHEN PAGE IS LIVE] Medical Image Computing Hackathon (MIC-H
 
 [Click here to see project descriptions](https://github.com/lukewtait/mic-hack-2026/issues). 
 
-**Project leaders**: To propose a project, click [Make New Project](https://github.com/lukewtait/mic-hack-2026/issues/new?template=template_project.md). Please refer to the Example Project [LINK WHEN LIVE] and Project Guidelines [LINK]. 
+Please browse the project descriptions, and indicate your preferred projects using the MS Form [LINK TO BE ADDED].
 
-**Participants**: Please browse the project descriptions, and indicate your preferred projects using the MS Form [LINK TO BE ADDED].
+*** 
+**Project leaders**: To propose a project, click [Make New Project](https://github.com/lukewtait/mic-hack-2026/issues/new?template=template_project.md). Please refer to the [Example Project](https://github.com/lukewtait/mic-hack-2026/issues/1). 
+***
 
 Participants will be matched up to projects a few days before the hackathon starts.
 
@@ -16,4 +18,13 @@ For enquiries, please contact the organisation team, listed below.
 
 ***
 ### Organisation team
-[LIST ORGANISERS]
+
+Name | Email
+---|---
+Stefano Zappala | [ZappalaS\@cardiff.ac.uk](mailto:ZappalaS\@cardiff.ac.uk)
+Paddy Slator | [SlatorP\@cardiff.ac.uk](mailto:SlatorP\@cardiff.ac.uk)
+Finnlay Gough | [GoughFS\@cardiff.ac.uk](mailto:GoughFS\@cardiff.ac.uk)
+Gerasimos Katsagannis | [KatsagannisG\@cardiff.ac.uk](mailto:KatsagannisG\@cardiff.ac.uk)
+Yueran Ma | [MaY68\@cardiff.ac.uk](mailto:MaY68\@cardiff.ac.uk)
+Harry Steed | [SteedHA\@cardiff.ac.uk](mailto:SteedHA\@cardiff.ac.uk)
+Luke Tait | [TaitL2\@cardiff.ac.uk](mailto:TaitL2\@cardiff.ac.uk)
