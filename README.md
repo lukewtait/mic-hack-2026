@@ -1,4 +1,4 @@
-# Cardiff University Medical Image Computing Hackathon 2026
+# Medical Image Computing Hackathon 2026
 
 Welcome to the [LINK WHEN PAGE IS LIVE] Medical Image Computing Hackathon (MIC-HACK) 2026!
 
